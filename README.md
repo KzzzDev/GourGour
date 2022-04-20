@@ -17,4 +17,8 @@
 ```Markdown
 DB: mysql:5.7
 Webサーバ: nginx version: nginx/1.21.6
+Laravel関係: 
+          Laravel Framework 8.83.7
+          Composer version 2.3.4 2022-04-07 21:16:35
+
 ```
