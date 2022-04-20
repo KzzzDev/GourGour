@@ -13,7 +13,8 @@
 ![roulette](https://user-images.githubusercontent.com/70145199/163939894-436caca6-8357-4f49-9bdc-481988b3b6ed.gif)
 
 ## Requirement
+#### 使用したバージョン
 ```Markdown
-DB: MySQL
-Webサーバ: NGINX
+DB: mysql:5.7
+Webサーバ: nginx version: nginx/1.21.6
 ```
