@@ -12,6 +12,9 @@
 #### ルーレットをスタートして行くお店が決まる
 ![roulette](https://user-images.githubusercontent.com/70145199/163939894-436caca6-8357-4f49-9bdc-481988b3b6ed.gif)
 
+## なぜつくったのか
+友人と複数人で外出したときにお店選びに時間がかかってしまうことが多いので、ルーレットに意思決定をしてもらえるサービスが欲しかったからです
+
 ## Requirement
 #### 使用したバージョン
 ```Markdown
@@ -19,6 +22,5 @@ DB: mysql:5.7
 Webサーバ: nginx version: nginx/1.21.6
 Laravel関係: 
     Laravel Framework 8.83.7
-    Composer version 2.3.4 2022-04-07 21:16:35
-
+    Composer version 2.3.4
 ```
